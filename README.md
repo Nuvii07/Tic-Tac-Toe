@@ -3,7 +3,7 @@ Tic tac toe game vs AI
 
 # Summary
  Przyjmujemy, że 'x' zawsze stawiamy pierwsze (użytkownik wykonuje pierwszy ruch).
- Każdy numer od 1 do 9 reprezentuje inną pozycję na planszy, zaczynając od górnego lewego roku (1).
+ Każdy numer od 1 do 9 reprezentuje inną pozycję na planszy, zaczynając od górnego lewego rogu (1).
  Po wykonaniu ruchu przez użytkownika, następuje ruch komputera, który sam decyduje poprzez algorytm* gdzie postawić 'o'.
  Kod zawiera jedną główną pętle, która wywołuje inne funkcje.
  
